@@ -5,7 +5,7 @@ Add to GitHub:
 - Persona
 
 - System Map
-- Value Proposition Canvas, How Might We
-- Impact Business Model Canvas
 - Figma Prototype
+- Impact Business Model Canvas
 - Business Model
+
