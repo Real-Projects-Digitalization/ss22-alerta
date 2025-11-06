@@ -2,7 +2,10 @@ Add to GitHub:
 
 - All presentations
 - Team Canvas
-- System Map
 - Persona
+
+- System Map
 - Value Proposition Canvas, How Might We
+- Impact Business Model Canvas
+- Figma Prototype
 - Business Model
